@@ -13,8 +13,10 @@ public class To_Chech_Vowels {
 		} else {
 			System.out.println("Not Contains Vowels");
 		}
-		System.out.println("First line updated by Divya");
 
+		System.out.println("First line updated by Sathish");
+
+		System.out.println("First line updated by Divya");
 	}
 
 }
