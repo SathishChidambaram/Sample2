@@ -5,15 +5,16 @@ public class To_Chech_Vowels {
 	public static void main(String[] args) {
 
 		String str = "SATHISH";
-		
+
 		String st = str.toLowerCase();
 
-		if (st.contains("a")|st.contains("e")|st.contains("i")|st.contains("o")|st.contains("u")) {
+		if (st.contains("a") | st.contains("e") | st.contains("i") | st.contains("o") | st.contains("u")) {
 			System.out.println("Contains Vowel");
-		}
-		else {
+		} else {
 			System.out.println("Not Contains Vowels");
 		}
+		System.out.println("First line updated by Divya");
+
 	}
 
 }
